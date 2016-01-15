@@ -1,5 +1,6 @@
 [
   "hubot-heroku-keepalive",
   "hubot-redis-brain",
-  "hubot-rss-reader"
+  "hubot-rss-reader",
+  "hubot-twitter-search"
 ]
